@@ -1,0 +1,13 @@
+/* This Font Software is licensed under the SIL Open Font License,
+ * Version 1.1.
+ */
+
+@font-face {
+    font-family: 'Noto Sans Nushu';
+    src:
+        local('Noto Sans Nushu'),
+        url(NotoSansNushu-Regular.woff2) format("woff2"),
+        url(NotoSansNushu-Regular.woff) format("woff"),
+        url(NotoSansNushu-Regular.ttf) format("truetype");
+    unicode-range: U+0D, U+20, U+A0, U+16FE1, U+1B170-1B2FB;
+}
